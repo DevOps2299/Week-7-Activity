@@ -1,2 +1,2 @@
 <?php
-echo "Hello, " . getenv('APP_NAME') . "!";
+echo "Hello! Here is the secret code: " . getenv('APP_NAME') . "!";
